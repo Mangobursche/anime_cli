@@ -1,0 +1,5 @@
+/target
+
+mpv.exe
+history.json
+Cargo.lock
